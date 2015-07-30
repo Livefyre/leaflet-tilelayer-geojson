@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-tilelayer-geojson",
+  "version": "1.0.0",
+  "description": "Renders GeoJSON tiles on an L.GeoJSON layer.",
+  "main": "TileLayer.GeoJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Livefyre/leaflet-tilelayer-geojson.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Livefyre/leaflet-tilelayer-geojson/issues"
+  },
+  "homepage": "https://github.com/Livefyre/leaflet-tilelayer-geojson"
+}
